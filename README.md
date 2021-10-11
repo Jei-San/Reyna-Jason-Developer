@@ -74,7 +74,7 @@ tag         | The pet's last name             | str
 }
 ```
 
-#### Update pet
+#### Create pet
 
 ###### Definition
 
