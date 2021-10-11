@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     await queryInterface.createTable('tblpet', {
@@ -15,9 +15,9 @@ module.exports = {
       tag: {
         type: Sequelize.STRING
       }
-    });
+    })
   },
   down: async (queryInterface, Sequelize) => {
-    await queryInterface.dropTable('tblpet');
+    await queryInterface.dropTable('tblpet')
   }
-};
+}
