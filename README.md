@@ -10,7 +10,7 @@ After the installation is done, use `npm start` to start the project.
 
 ## URI
 
-The URI prefix is `https://localhost/`
+The URI prefix is `http://localhost/`
 
 ---
 
